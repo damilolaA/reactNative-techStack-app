@@ -1,0 +1,22 @@
+[
+	{
+		"id": 0,
+		"title": "React-Native",
+		"description": "A Javascript library for building cross-platform native applications"
+	},
+	{
+		"id": 1,
+		"title": "Webpack",
+		"description": "Webpack is a module bundler. It packs CommonJS/AMD modules"
+	},
+	{
+		"id": 2,
+		"title": "Redux",
+		"description": "Redux is a predictable state container for Javascript Applications"
+	},
+	{
+		"id": 3,
+		"title": "React",
+		"description": "React is a Javascript Library that makes it painless to create interactive UIs"
+	}
+]
